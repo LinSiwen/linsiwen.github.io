@@ -1,5 +1,5 @@
 
-# 中国ERP应有的功能构成 <badge type="tip" text="importat" />
+# 中国ERP应有的功能构成 <badge type="tip" text="important" />
 
 1. 符合中国会计和税务工作方式的流程和界面.
 2. 符合中国企业家传统思维模式的流程和功能,界面.
