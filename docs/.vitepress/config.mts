@@ -4,7 +4,7 @@ export default defineConfig({
   // # 站点元数据
   title: "My Site",
   description: "A VitePress site",
-  base: '/',
+  // base: '/', 不能写'/', 可以写"/MySite/"
 
   // 路由
   cleanUrls: false,
