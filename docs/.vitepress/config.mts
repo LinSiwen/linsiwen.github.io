@@ -42,7 +42,10 @@ export default defineConfig({
     // 大纲层级,默认2,表示只显示h2,[1-6]表示显示1-6层级,最高6级.
     outline: [1, 6],
 
-    // 搜索
+    // 修改本页
+    editLink: {
+      pattern: 'https://github.com/vuejs/vitepress/edit/main/docs/:path'
+    },
 
     // 社交链接
     socialLinks: [
@@ -50,7 +53,8 @@ export default defineConfig({
     ],
 
     // 外链标记
-    externalLinkIcon: true,
-
+    externalLinkIcon: true
   }
+
+  // 
 })
