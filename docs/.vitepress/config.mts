@@ -43,9 +43,9 @@ export default defineConfig({
     outline: [1, 6],
 
     // 修改本页
-    editLink: {
-      pattern: 'https://github.com/vuejs/vitepress/edit/main/docs/:path'
-    },
+    // editLink: {
+    //   pattern: 'https://github.com/LinSiwen/linsiwen.github.io/edit/main/docs/:path'
+    // },
 
     // 社交链接
     socialLinks: [
