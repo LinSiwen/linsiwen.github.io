@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   // # 站点元数据
   title: "My Site",
-  description: "A VitePress site"
+  description: "A VitePress site",
 
   // 路由
   cleanUrls: false,
