@@ -59,10 +59,10 @@ $ git checkout -- test.txt  # 用版本库里的版本替换工作区的版本
 ```
 
 [git-stage](https://www.liaoxuefeng.com/files/attachments/919020074026336/0)
-![git-stage](./public/git-stage.jpg)
+![git-stage](../public/git-stage.jpg)
 
 [git-stage-after-commit](https://www.liaoxuefeng.com/files/attachments/919020100829536/0)
-![git-stage-after-commit](./public/git-stage-after-commit.jpg)
+![git-stage-after-commit](../public/git-stage-after-commit.jpg)
 
 ## 第二篇,github
 

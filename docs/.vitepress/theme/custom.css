@@ -1,0 +1,5 @@
+/* .vitepress/theme/custom.css */
+:root {
+    --vp-sidebar-width: 272px;
+    --vp-layout-max-width: 1440px;
+}
