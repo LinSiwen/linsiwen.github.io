@@ -6,7 +6,7 @@ export default defineConfig({
   description: "A VitePress site",
 
   // 路由
-  cleanUrls: false,
+  cleanUrls: true,
 
   // 主题
   appearance: true,
