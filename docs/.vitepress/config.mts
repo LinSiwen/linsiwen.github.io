@@ -2,11 +2,12 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   // # 站点元数据
-  title: "My Site",
+  title: "Kingdee@林斯文",
+  // titleTemplate: "",
   description: "A VitePress site",
 
   // 路由
-  cleanUrls: true,
+  cleanUrls: false,
 
   // 主题
   appearance: true,
