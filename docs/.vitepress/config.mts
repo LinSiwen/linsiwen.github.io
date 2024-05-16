@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   // # 站点元数据
-  title: "Kingdee@林斯文",
+  title: "金蝶软件集团@林斯文",
   // titleTemplate: "",
   description: "A VitePress site",
 
